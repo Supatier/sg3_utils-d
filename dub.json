@@ -1,0 +1,10 @@
+{
+	"name": "sg3_utils-d",
+	"authors": [
+		"supatier"
+	],
+	"description": "sg3 bindings for D",
+	"copyright": "Copyright © 2018, supatier",
+        "license": "MPL-2.0",
+        "targetType": "library",
+}
